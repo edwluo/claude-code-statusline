@@ -1,6 +1,4 @@
----
-created: 2026-03-05T02:20:42
----
+
 
 # claude-code-statusline
 
